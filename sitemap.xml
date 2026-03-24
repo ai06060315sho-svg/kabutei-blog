@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- サイトURLを設定してください（例: https://your-domain.com/） -->
+  <url>
+    <loc>https://your-domain.com/</loc>
+    <lastmod>2026-03-22</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://your-domain.com/pages/stocks.html</loc>
+    <lastmod>2026-03-22</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://your-domain.com/pages/crypto.html</loc>
+    <lastmod>2026-03-22</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://your-domain.com/pages/exchanges.html</loc>
+    <lastmod>2026-03-22</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://your-domain.com/pages/books.html</loc>
+    <lastmod>2026-03-22</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://your-domain.com/pages/about.html</loc>
+    <lastmod>2026-03-22</lastmod>
+    <priority>0.5</priority>
+  </url>
+</urlset>
